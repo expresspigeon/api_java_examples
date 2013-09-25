@@ -1,4 +1,4 @@
-<h1>ExpressPigeon Java examples of PAI usage</h1>
+<h1>ExpressPigeon Java examples of API usage</h1>
 
 This is a set of examples that shows how to call <a href="https://expresspigeon.com/api">ExpressPigeon API</a>
 using Java
