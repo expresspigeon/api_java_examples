@@ -1,0 +1,10 @@
+{
+     "template_id": 123,
+     "reply_to": "john@doe.com",
+     "from": "John Doe",
+     "to": "jave@doe.com",
+     "subject": "Dinner served",
+     "merge_fields": {
+         "first_name": "Jane"
+     }
+ }
